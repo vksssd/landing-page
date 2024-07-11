@@ -31,3 +31,6 @@ function linkAction(){
 navLink.forEach(element => {
     element.addEventListener('click', linkAction)
 });
+
+// change background header
+// function scrollHeader 
